@@ -20,6 +20,6 @@
 
  Para popular o banco de dados, foram baixados os arquivos SQL no repositorio [sql-paises-estados-cidades](https://github.com/chinnonsantos/sql-paises-estados-cidades)
  
- *obs:* Faz-se necessario o arquivo system.properties na raiz do projeto para que o heroku reconheça versões superiores ao java 8.
+ **obs:** Faz-se necessario o arquivo system.properties na raiz do projeto para que o heroku reconheça versões superiores ao java 8.
 
  * Conteudo do arquivo: java.rutime.version=11.
