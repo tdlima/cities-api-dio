@@ -4,17 +4,17 @@
 
 ### Requerimentos
 
- *Java 11
- *Spring Boot 2.4.5
- *Maven 3.6.2
- *Postgres
- *Git
- *Intelij ou Eclipse
- *Conta no heroku
+ * Java 11
+ * Spring Boot 2.4.5
+ * Maven 3.6.2
+ * Postgres
+ * Git
+ * Intelij ou Eclipse
+ * Conta no heroku
 
 ### Dependencia acrecentada
 
- *Lombok
+ * Lombok
 
 ### Banco de Dados
 
@@ -22,4 +22,4 @@
  
  *obs:* Faz-se necessario o arquivo system.properties na raiz do projeto para que o heroku reconheça versões superiores ao java 8.
 
- *Conteudo do arquivo: java.rutime.version=11.
+ * Conteudo do arquivo: java.rutime.version=11.
