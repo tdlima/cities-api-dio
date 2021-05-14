@@ -12,7 +12,7 @@
  * Intelij ou Eclipse
  * Conta no heroku
 
-### Dependencia acrecentada
+### Dependencia acrescentada
 
  * Lombok
 
